@@ -55,4 +55,3 @@ print(result)
 
 chain.get_graph().print_ascii()
 
-# python conditional_chain.py
