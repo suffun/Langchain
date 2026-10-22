@@ -1,0 +1,5 @@
+A cricket team normally has eleven players. Players can have different roles.
+
+Batsmen focus on scoring runs, bowlers focus on taking wickets, and all-rounders contribute with both batting and bowling.
+
+The wicketkeeper plays behind the stumps and is responsible for catching the ball and making stumpings.
